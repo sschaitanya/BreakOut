@@ -2,7 +2,7 @@
 
 #Screenshot:
 
-![game](images/screenshot.png)
+![game](screenshot.png)
 
 #Notes:
 * 3 levels easy to add more
